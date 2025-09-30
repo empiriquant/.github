@@ -1,12 +1,11 @@
-## Hi there 👋
+## Welcome!
 
-<!--
+All project code associated with EmpiriQuant blog posts can be found here.
 
-**Here are some ideas to get you started:**
+You can learn more about EmpiriQuant by checking out the about section on our website at: [www.empiriquant.com/about](https://www.empiriquant.com/about)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+### Using This Code
+**Disclaimer:** Nothing in these repositories or on EmpiriQuant should be construed as investment advice. Code is provided for educational and research purposes. All code is provided as-is. While efforts are made to ensure accuracy, users should verify results independently before relying on any findings.
+
+
